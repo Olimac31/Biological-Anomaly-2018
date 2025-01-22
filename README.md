@@ -13,6 +13,8 @@ I never stopped thinking about Biological Anomaly, its characters and its music,
 
 I still want to reboot this project at some point, maybe in a couple of years, but that's gonna be done in Godot 3, so... I decided to release the source code of this old prototype made in GMS 1.4!
 This project is licensed under Apache 2.0, so feel free to use the code in your stuff :)
+
+
 Have fun!
 
 - Olimac31
