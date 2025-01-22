@@ -94,7 +94,7 @@ else{
         message_current = 0; //increase the message by 1
         message_length = string_length(message[message_current]);  //get the new character length for message
         message_ended = false;
-        if(instant){instance_destroy();}
+        if(instant){instance_destroy(self,0);}
         //}
     }
     }

@@ -3,7 +3,7 @@
   <caption></caption>
   <width>432</width>
   <height>240</height>
-  <vsnap>16</vsnap>
+  <vsnap>8</vsnap>
   <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>60</speed>
@@ -93,8 +93,8 @@ audio_stop_all();</code>
     <instance objName="obj_acid_spr" x="416" y="208" name="inst_C5BE6749" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_acid_spr" x="256" y="152" name="inst_6441E29A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelBlock" x="0" y="112" name="inst_1E15E698" locked="0" code="lvlState = &quot;deco&quot;;&#xA;lvlType = 5;&#xA;lvlName = &quot;-Tutorial-&quot;;&#xA;lvlGoto = rm_RealTutAsk;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_levelBlock" x="80" y="112" name="inst_994BF1C2" locked="0" code="lvlType = 0;&#xA;lvlName = &quot;-Bubble Fields-&quot;;&#xA;lvlGoto = rm_Intro1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_levelBlock" x="160" y="112" name="inst_93B98CB3" locked="0" code="lvlState = &quot;closed&quot;;&#xA;lvlType = 1;&#xA;lvlGoto = rm_Map1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_levelBlock" x="80" y="112" name="inst_994BF1C2" locked="0" code="lvlType = 0;&#xA;lvlName = &quot;-Bubble Fields-&quot;;&#xA;lvlGoto = rm_Intro1;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_levelBlock" x="160" y="112" name="inst_93B98CB3" locked="0" code="lvlState = &quot;closed&quot;;&#xA;lvlType = 1;&#xA;lvlGoto = rm_Map1;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelBlock" x="336" y="96" name="inst_6CAAF706" locked="0" code="lvlState = &quot;special&quot;;&#xA;lvlType = 4;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelBlock" x="256" y="112" name="inst_B771A975" locked="0" code="lvlState = &quot;closed&quot;;&#xA;lvlType = 2;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_acid_spr" x="272" y="152" name="inst_3B9B2BC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -106,8 +106,6 @@ audio_stop_all();</code>
     <instance objName="obj_redbush" x="112" y="152" name="inst_D3513047" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saveBlock" x="0" y="72" name="inst_A2794B2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block01" x="240" y="104" name="inst_94D76131" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_levelBlock" x="128" y="64" name="inst_121766E2" locked="0" code="lvlType = 0;&#xA;lvlName = &quot;rm_secretroom&quot;;&#xA;lvlGoto = room10;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_levelBlock" x="176" y="64" name="inst_3AE692EF" locked="0" code="lvlType = 0;&#xA;lvlName = &quot;Options menu test&quot;;&#xA;lvlGoto = rm_optionsTest;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileset_1" x="224" y="160" w="16" h="16" xo="144" yo="128" id="10014763" name="inst_A6E31083" depth="1000001" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

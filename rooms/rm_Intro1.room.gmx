@@ -73,6 +73,7 @@
     <instance objName="obj_platform" x="48" y="288" name="inst_1431D753" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_platform" x="112" y="240" name="inst_A958F5A8" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_platform" x="48" y="192" name="inst_61FB4663" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_block01" x="32" y="32" name="inst_53FCE103" locked="0" code="" scaleX="1" scaleY="13" colour="4294967295" rotation="0"/>
     <instance objName="obj_block01" x="144" y="176" name="inst_057544B2" locked="0" code="" scaleX="4" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="obj_block02" x="208" y="160" name="inst_07329AB0" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block02" x="240" y="144" name="inst_B2961077" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
@@ -114,10 +115,6 @@
     <instance objName="obj_nutrient" x="768" y="80" name="inst_BD60B636" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_textbox01" x="624" y="32" name="inst_FBBFCCA5" locked="0" code="message_end = 1&#xA;boximg_end = 1&#xA;instant = true;&#xA;&#xA;message[0] = &quot;You're lost on a huge place, but still, you decide to continue.&quot;;&#xA;boximg[0] = spr_unknown_tf;&#xA;&#xA;message[1] = &quot;You wonder what kind of things you'll have to confront.&quot;;&#xA;boximg[1] = spr_unknown_tf;" scaleX="1" scaleY="6" colour="4294967295" rotation="0"/>
     <instance objName="obj_roomchange" x="736" y="96" name="inst_CFAC2C7C" locked="0" code="rchange = rm_tuto2;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_block01" x="-48" y="144" name="inst_38D12B5E" locked="0" code="" scaleX="6" scaleY="6" colour="4294967295" rotation="0"/>
-    <instance objName="obj_block01" x="-48" y="32" name="inst_67C63E83" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_block01" x="-64" y="32" name="inst_9215F98C" locked="0" code="" scaleX="1" scaleY="8" colour="4294967295" rotation="0"/>
-    <instance objName="obj_portal" x="-48" y="48" name="inst_3BA1051D" locked="0" code="rchange = rm_tuto1;&#xA;" scaleX="2" scaleY="4.80000019073486" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileset_1" x="688" y="128" w="16" h="16" xo="112" yo="128" id="10017876" name="inst_3487CFC5" depth="1000002" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

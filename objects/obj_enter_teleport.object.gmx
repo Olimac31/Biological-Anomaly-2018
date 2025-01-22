@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>active = 1
 countdown = 22
-rchange = rm_tuto1
+rchange = rm_RealTutAsk
 image_alpha = 0
 </string>
           </argument>

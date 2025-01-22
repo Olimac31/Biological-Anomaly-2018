@@ -10,7 +10,7 @@
   <persistent>0</persistent>
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
-  <code></code>
+  <code>global.wallj = true</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
@@ -79,7 +79,7 @@
     <instance objName="obj_block01" x="80" y="0" name="inst_AD20D1A4" locked="0" code="" scaleX="25" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_block01" x="400" y="32" name="inst_190733B1" locked="0" code="" scaleX="5" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_block01" x="480" y="0" name="inst_3467F6F3" locked="0" code="" scaleX="12" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Player" x="1120" y="176" name="inst_BB8C961F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Player" x="1120" y="176" name="inst_BB8C961F" locked="0" code="gamemode = 0&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_portal" x="160" y="224" name="inst_FB48099C" locked="0" code="rchange = rm_RealTut2;&#xA;" scaleX="23" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
     <instance objName="obj_portal" x="32" y="-16" name="inst_57DBFA43" locked="0" code="rchange = rm_RealTut3;&#xA;" scaleX="3" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
     <instance objName="obj_checkpoint1" x="768" y="64" name="inst_74985A15" locked="0" code="myID = 2;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

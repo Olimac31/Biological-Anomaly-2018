@@ -55,7 +55,7 @@ y += obj_Player.intVY
 }
 if image_index = image_number-1
 {
-instance_destroy()
+instance_destroy(self, 0)
 }
 </string>
           </argument>

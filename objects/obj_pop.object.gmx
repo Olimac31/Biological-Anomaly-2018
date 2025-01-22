@@ -51,7 +51,7 @@ image_index = 0;
             <kind>1</kind>
             <string>if(image_index &gt; image_number - 1)
 {
-    instance_destroy();
+    instance_destroy(self, 0);
 }
 </string>
           </argument>

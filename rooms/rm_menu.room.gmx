@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="obj_player_bg" x="72" y="216" name="inst_30225546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_enter_teleport" x="16" y="24" name="inst_C577E07F" locked="0" code="rchange = rm_Map1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_enter_teleport" x="16" y="24" name="inst_C577E07F" locked="0" code="rchange = rm_RealTutAsk;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="fade1_gen" x="0" y="0" name="inst_355353BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="spr_enter_bg" x="136" y="128" name="inst_7BCBDDFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copyright" x="136" y="224" name="inst_81E51B0B" locked="0" code="" scaleX="0.501567423343658" scaleY="0.5" colour="4294967295" rotation="0"/>

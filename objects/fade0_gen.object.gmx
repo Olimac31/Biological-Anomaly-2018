@@ -62,7 +62,7 @@ for(j = 0; j &lt; 54*16; j += 16)
 instance_create(x + j, y + i, obj_fade0)
 }
 }
-instance_destroy()
+instance_destroy(self,0)
 </string>
           </argument>
         </arguments>

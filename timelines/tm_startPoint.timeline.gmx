@@ -27,6 +27,8 @@ xScale = 432;
 yScale = 240;
 }
 scr_ChangeVoice(snd_txt1, spr_unknown_tf);
+
+global.wallj = false
 </string>
           </argument>
         </arguments>
@@ -82,7 +84,7 @@ scr_ChangeVoice(snd_txt1, spr_unknown_tf);
 {
 audio_play_sound(snd_startSong, 0, 1);
 }
-with(obj_screenCover){ instance_destroy();}
+instance_destroy(obj_screenCover,0);
 instance_create(x,y,fade1_gen);
 </string>
           </argument>

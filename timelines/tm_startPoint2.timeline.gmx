@@ -320,7 +320,7 @@ obj_superNutrientNPC.vspeed = 0.25;
           <argument>
             <kind>1</kind>
             <string>obj_wTile.mode = 2;
-with(obj_superNutrientNPC){ instance_destroy();}
+instance_destroy(obj_superNutrientNPC);
 </string>
           </argument>
         </arguments>
@@ -376,7 +376,7 @@ scr_TalkTimeline("Now you can WALL JUMP!");
             <string>obj_Player.x = obj_ActorPlayer.x;
 obj_Player.y = obj_ActorPlayer.y;
 
-with(obj_ActorPlayer){ instance_destroy();}
+instance_destroy(obj_ActorPlayer, 0);
 obj_Player.reading = false;
 obj_Player.visible = true;
 scr_walljumpUnlock();

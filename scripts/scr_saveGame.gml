@@ -4,7 +4,7 @@ file_delete("bioSave1.ini");
 }
 ini_open("bioSave1.ini");
 //All data to save
-ini_write_string("GameVariables", "sfName", global.DEVICENAME); //Your name
+ini_write_real("GameVariables", "sfName", global.DEVICENAME); //Your name
 ini_write_string("GameVariables", "sfInZone", global.sfInZone); //Zone you're in
 ini_write_real("GameVariables", "sfVidas", global.sfVidas); // 1ups
 ini_write_real("GameVariables", "sfNutrients", global.sfNutrients); //Nutrients

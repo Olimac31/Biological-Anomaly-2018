@@ -57,7 +57,7 @@ bubbleJump = 0;
 reading = 0;
 ded = 0;
 
-gamemode = 3;
+gamemode = 3; // jajasj el nombre es referensia al juego chistoso de los bloques
 viewactual = 0;
 PlayerParallax = true;
 /* Everything related to unlockable abilities:
@@ -66,6 +66,7 @@ gamemode 1: Double Jump
 gamemode 2: Walljump + Doublejump (Debug Mode only)
 gamemode 3: None
 gamemode 4: Kick + Walljump
+
 */
 if(global.wallj)
 {

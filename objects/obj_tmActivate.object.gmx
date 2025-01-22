@@ -68,7 +68,7 @@ if(activated)
 {
     if(destroyAfter)
     {
-        instance_destroy();
+        instance_destroy(self, 0);
     }
     else
     {

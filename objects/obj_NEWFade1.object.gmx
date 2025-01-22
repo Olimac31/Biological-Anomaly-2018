@@ -62,7 +62,7 @@ if(frame &lt; exitFr)
 }
 else
 {
-    instance_destroy();
+    instance_destroy(self, 0);
 }
 </string>
           </argument>

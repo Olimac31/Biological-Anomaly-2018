@@ -54,7 +54,7 @@ puntos = 50;
     global.Score += puntos;
     global.nutrients++;
     audio_play_sound(snd_nutrientgrab1,0,0)
-    instance_destroy();
+    instance_destroy(self, 0);
 }
 </string>
           </argument>

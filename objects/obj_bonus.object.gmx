@@ -32,7 +32,7 @@ global.bonus = 0;
 }
 else
 {
-instance_destroy();
+instance_destroy(self, 0);
 }
 </string>
           </argument>
@@ -57,7 +57,7 @@ instance_destroy();
           <argument>
             <kind>1</kind>
             <string>global.Score += puntaje;
-instance_destroy();
+instance_destroy(self, 0);
 </string>
           </argument>
         </arguments>

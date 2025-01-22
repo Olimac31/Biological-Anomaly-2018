@@ -234,6 +234,13 @@
     <tile bgName="tileset_1" x="128" y="416" w="16" h="16" xo="64" yo="0" id="10010015" name="inst_803D1A32" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tileset_1" x="400" y="736" w="16" h="32" xo="32" yo="112" id="10018663" name="inst_587A7C97" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background2" x="128" y="208" w="16" h="16" xo="32" yo="128" id="10018679" name="inst_2F7AB6BB" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="320" y="0" w="80" h="80" xo="0" yo="0" id="10019906" name="inst_7CFCDBC3" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="400" y="0" w="80" h="80" xo="0" yo="0" id="10019907" name="inst_B37794FD" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="320" y="80" w="32" h="32" xo="0" yo="0" id="10019908" name="inst_E2DB7975" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="352" y="80" w="32" h="32" xo="0" yo="0" id="10019909" name="inst_C1213DA6" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="384" y="80" w="32" h="32" xo="0" yo="0" id="10019910" name="inst_02BAD9C4" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="416" y="80" w="32" h="32" xo="0" yo="0" id="10019911" name="inst_0122638A" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="tile1_fill" x="448" y="80" w="32" h="32" xo="0" yo="0" id="10019912" name="inst_B370E9C9" depth="1000005" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tileset_1" x="48" y="1712" w="16" h="16" xo="144" yo="32" id="10003872" name="inst_A3F07389" depth="1000004" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tileset_1" x="64" y="1712" w="16" h="16" xo="144" yo="32" id="10003873" name="inst_8B4FF7CA" depth="1000004" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="tileset_1" x="80" y="1712" w="16" h="16" xo="144" yo="32" id="10003874" name="inst_849A478D" depth="1000004" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

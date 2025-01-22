@@ -91,7 +91,7 @@ if(enteringDoor == false &amp;&amp; cooldown &lt; 0)
     {
         if(instance_number(obj_Player) &gt; 0)obj_Player.reading = 0;
         if(instance_number(obj_MapPlayer) &gt; 0)obj_MapPlayer.reading = 0;
-        instance_destroy();
+        instance_destroy(self, 0);
     }
 }
 </string>
